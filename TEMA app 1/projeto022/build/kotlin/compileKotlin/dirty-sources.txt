@@ -1,0 +1,2 @@
+C:\TEMA app 1\projeto022\src\main\kotlin\Main.kt
+C:\TEMA app 1\projeto022\src\main\kotlin\formulas.kt
